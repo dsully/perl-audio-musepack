@@ -1,0 +1,8 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+Musepack.pm
+APETags.pm
+META.yml                                Module meta-data (added by MakeMaker)
+test.pl
