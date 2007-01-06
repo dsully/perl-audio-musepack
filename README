@@ -1,4 +1,4 @@
-Audio::Musepack version 0.01
+Audio::Musepack version 0.5
 =======================
 
 The README is used to introduce the module and provide instructions on
@@ -24,6 +24,8 @@ To install this module type the following:
 COPYRIGHT AND LICENCE
 
 Put the correct copyright and licence information here.
+
+Copyright (C) 2005-2007 by Dan Sully & Slim Devices
 
 Copyright (C) 2003 by Erik Reckase
 
