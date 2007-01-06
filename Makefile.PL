@@ -7,5 +7,7 @@ license('perl');
 perl_version('5.005');
 all_from('lib/Audio/Musepack.pm');
 
+requires('MP3::Info' => '1.20');
+
 auto_install();
 WriteAll();
