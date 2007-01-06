@@ -2,6 +2,8 @@ Changes
 Makefile.PL
 MANIFEST
 README
+data/test.ape
+data/test.mpc
 lib/Audio/Musepack.pm
 lib/Audio/APE.pm
 lib/Audio/APETags.pm
