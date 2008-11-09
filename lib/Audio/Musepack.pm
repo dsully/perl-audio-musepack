@@ -7,7 +7,7 @@ use Audio::APETags;
 use Fcntl qw(:seek);
 use MP3::Info;
 
-our $VERSION = '0.6';
+our $VERSION = '0.7';
 
 # First four bytes of stream are always fLaC
 use constant MPCHEADERFLAG => 'MP+';

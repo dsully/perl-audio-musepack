@@ -8,6 +8,8 @@ use Fcntl qw(:seek);
 use Audio::APETags;
 use MP3::Info ();
 
+our $VERSION = '0.7';
+
 # First eight bytes of ape v2 tag block are always APETAGEX
 use constant MACHEADERFLAG => 'MAC';
 use constant APEHEADERFLAG => 'APETAGEX';
