@@ -3,7 +3,7 @@ package Audio::Musepack;
 use strict;
 use base qw(Audio::APETags);
 
-our $VERSION = '1.0';
+our $VERSION = '1.0.1';
 
 1;
 
